@@ -1,4 +1,4 @@
-# Normalized Least Mean Square Adaptive FIR Filter
+# Normalized Least Mean Square Adaptive FIR Filter for C2000 CLA
 
 ## Important note
 Only CLA code is included in the project.
